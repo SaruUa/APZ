@@ -1,2 +1,2 @@
 # APZ
-Практичні роботи з дисципліни "Аналіз програмного забеспечення"
+Practical work in the discipline “Software Analysis”
